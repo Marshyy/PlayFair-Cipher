@@ -1,0 +1,7 @@
+{
+    "key": "Enter your key here",
+    "encrypt": "Enter Text to Encrypt here",
+    "decrypt": "Enter Text to Decrypt here",
+    "to": "Write 0 to encrypt, 1 to decrypt, 2 for both, anything else if you want my code to break (Without Double Quotes)",
+    "matrix_visible": false
+}
